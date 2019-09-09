@@ -1,4 +1,4 @@
-package com.silentdragon.wormhole
+package com.sevenseas.wormhole
 
 import com.beust.klaxon.JsonObject
 import com.beust.klaxon.Parser

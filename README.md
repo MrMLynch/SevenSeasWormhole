@@ -1,6 +1,6 @@
-# Silent Dragon Wormhole
+# Seven Seas Wormhole
 
-Wormhole Service for SilentDragon mobile app at wormhole.myhush.org
+Wormhole Service for SevenSeas mobile app at wormhole.pirate.black
 
 
 # Compiling From Source
@@ -19,6 +19,6 @@ to work well:
 
 Clone and compile:
 
-    git clone https://github.com/MyHush/SilentDragonWormhole
-    cd SilentDragonWormhole
+    git clone https://github.com/PirateNetwork/SevenSeasWormhole
+    cd SevenSeasWormhole
     gradle build
